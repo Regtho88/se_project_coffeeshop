@@ -17,7 +17,6 @@
   }
   
   .form__input {
-    max-width: 385px;
     height: 60px;
     font-style: normal;
     font-weight: normal;
@@ -46,7 +45,6 @@
     opacity: 100%;
     transition: opacity 0.5s ease-in-out;
     border: none;
-    max-width: 385px;
   }
   
   .form__button:hover {

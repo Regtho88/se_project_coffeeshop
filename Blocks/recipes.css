@@ -5,7 +5,6 @@
     background-image: url(../images/background_recipes.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    color:#fff;
   }
 
 .recipes__title {
@@ -39,6 +38,7 @@
     width: 480px;
     height: 273px;
     border: 0;
+    display:block;
 }
 
 .recipes__video-caption {
