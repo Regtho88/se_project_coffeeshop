@@ -26,7 +26,7 @@
     border-width: 1px;
     border-color: #838383;
     color: black;
-    padding: 0 0 0 20px;
+    padding: 0 0 20px 20px;
   }
   
   .form__input::placeholder {
@@ -49,6 +49,7 @@
   
   .form__button:hover {
     opacity: 70%;
+    cursor: pointer;
   }
   
   .form__fieldset_type_checkbox {

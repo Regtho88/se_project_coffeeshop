@@ -51,8 +51,8 @@
     justify-content: center;
   }
   
-  .about__paragraph:nth-child(2) {
-    padding: 20px 0;
+  .about__paragraph:not(:last-of-type) {
+    margin-bottom: 20px;
   }
   
   .about__circle {
